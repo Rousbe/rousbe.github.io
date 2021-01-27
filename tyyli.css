@@ -1,2 +1,19 @@
-styles.css
+h1 {
+color: blueviolet;
 
+}
+
+p {
+    color: orange;
+background-color: greenyellow;
+}
+
+body {
+    background-color: paleturquoise;
+}
+
+.pi {
+    color: bisque;
+    background-color: aquamarine;
+    
+}
