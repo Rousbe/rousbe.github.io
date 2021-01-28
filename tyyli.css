@@ -1,15 +1,15 @@
 h1 {
-color: blueviolet;
+color: greenyellow;
 
 }
 
 p {
-    color: orange;
-background-color: greenyellow;
+    color: black;
+background-color: #FFCCCC;
 }
 
 body {
-    background-color: paleturquoise;
+    background-color: #e6abe6;
     font-family:'Courier New', Courier, monospace
 }
 
