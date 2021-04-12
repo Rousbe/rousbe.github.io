@@ -21,14 +21,21 @@ fieldset {
     border-radius: 50%;
   }
   .fa-facebook {
-    background: white;
-    color: #3B5998;
+    background: lightgray;
+    color: rgb(11, 75, 11) ;
   }
   .fa-instagram {
-    background: white;
-    color: rgb(238, 27, 150);
+    background: lightgray;
+    color: rgb(11, 75, 11) ;
   }
 ul {
     text-align: left;
     float: left;
+}
+body {
+    background-color: lightgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+footer {
+    color:rgb(11, 75, 11) ;
 }
