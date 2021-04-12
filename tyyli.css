@@ -1,10 +1,3 @@
-.carousel-item {
-    max-width: fit-content;
-    height: 400px;
-    position: relative;
-    top: -225px;
-    margin: auto;
-}
 form {
     text-align: center;
 }
@@ -12,22 +5,28 @@ fieldset {
     text-align: center;
 }
 .fa {
-    padding: 20px;
-    font-size: 30px;
+    padding: 35px;
+    font-size: 40px;
     width: 30px;
     text-align: center;
-    text-decoration: none;
-    margin: 5px 2px;
+    text-decoration:none;
+    margin: 4px 4px;
     border-radius: 50%;
-  }
-  .fa-facebook {
-    background: lightgray;
+}
+.fa-instagram {
     color: rgb(11, 75, 11) ;
-  }
-  .fa-instagram {
-    background: lightgray;
-    color: rgb(11, 75, 11) ;
-  }
+    text-align: center;
+    float: inherit
+    margin-left: 5px;
+    padding-left: 5px;
+}
+.fa-linkedin {
+    color:rgb(11, 75, 11) ;
+    text-align: center;
+    float: inherit;
+    margin-left: 2px;
+    padding-left: 2px;
+}  
 ul {
     text-align: left;
     float: left;
@@ -38,4 +37,5 @@ body {
 }
 footer {
     color:rgb(11, 75, 11) ;
+    text-align: center;
 }
