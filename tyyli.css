@@ -53,3 +53,7 @@ footer {
     margin-top: 25px;
     margin-bottom: 0px;
 }
+textarea {
+    text-align: center;
+    margin-left: 70px;
+}
